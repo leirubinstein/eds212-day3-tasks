@@ -1,0 +1,17 @@
+---
+title: "Day 3 Afternoon tasks"
+author: "Leilanie Rubinstein"
+format: html
+---
+
+```{r}
+vec_a <- c(1, 6)
+
+vec_b <- c(2, 4)
+
+vec_a + vec_b
+vec_b - vec_a
+2 * vec_a
+vec_a %*% vec_b
+```
+
